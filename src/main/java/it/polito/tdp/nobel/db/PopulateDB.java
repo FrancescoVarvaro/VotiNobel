@@ -39,7 +39,6 @@ public class PopulateDB {
 		// Ottengo la lista di tutti i voti
 		System.out.println("Voti inseriti");
 		System.out.println(vd.getTuttiEsami());
-
 	}
 	
 }

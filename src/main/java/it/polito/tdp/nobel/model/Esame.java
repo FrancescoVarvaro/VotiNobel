@@ -8,7 +8,7 @@ public class Esame {
 	private int crediti;
 
 	public Esame() {
-
+		
 	}
 
 	public Esame(String codins, String nomecorso, int crediti, int voto) {
